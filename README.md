@@ -6,7 +6,7 @@
   <li>HTML</li>
   <li>CSS3</li>
   <li>BOOTSTRAP</li>
-  <li>JAVASCRIPT </li>
+  <li>JAVASCRIPT with jQuery "3.6.3" </li>
   <h3>BACKEND</h3>
   <li>NODE JS</li>
   <li>EXPRESS</li>
