@@ -2,7 +2,7 @@
 <h2>General Info</h2>
 <h2>Technologies</h2>
 <ul>
-  <h3>FRONTEND</h3>
+  <h3>FRONTEND</h3>                  <>BACKEND</>
   <li>HTML</li>
   <li>CSS3</li>
   <li>BOOTSTRAP</li>
