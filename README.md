@@ -6,6 +6,6 @@
   <li>HTML</li>
   <li>CSS3</li>
   <li>BOOTSTRAP</li>
-  <li>JAVASCRIPT</li>
+  <li>JAVASCRIPT </li>
 
 </ul>
