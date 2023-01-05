@@ -1,4 +1,6 @@
 <h1>Bussiness Process Tool</h1>
+####are documents used when team members need to make a purchase on behalf of their organization.
+
 <h2>General Info</h2>
 <h2>Technologies</h2>
 <ul>
