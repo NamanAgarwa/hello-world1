@@ -1,5 +1,5 @@
 <h1>Bussiness Process Tool</h1>
-<p> `#0969DA`Business Process Tool  is a web portal used when team members need to make a purchase on behalf of their organization.<p>
+<p> `#0969DA`Business Process Tool  is a web portal used when team members need to make a purchase on behalf of their organization.</p>
 User can create  multiples requisition 
 
 <h2>General Info</h2>
